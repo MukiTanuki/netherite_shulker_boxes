@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:netherite_ingot"
+  },
+  "base": {
+    "item": "minecraft:white_shulker_box"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:white_shulker_box",
+    "components": {
+      "minecraft:custom_model_data": 1,
+      "minecraft:fire_resistant": {},
+      "minecraft:item_name": "{  \"text\": \"White Netherite Shulker Box\", \"color\": \"#9479ab\" }"
+    }
+  },
+  "template": {
+    "item": "minecraft:netherite_upgrade_smithing_template"
+  }
+}
