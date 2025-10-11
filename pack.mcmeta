@@ -37,6 +37,15 @@
 					"min_inclusive": 61,
 					"max_inclusive": 9999999
 				}
+			},
+			{
+				"directory": "1_21_9",
+				"min_format": 88,
+				"max_format": 9999999,
+				"formats": {
+					"min_inclusive": 88,
+					"max_inclusive": 9999999
+				}
 			}
 		]
 	}
